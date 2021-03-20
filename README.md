@@ -64,4 +64,6 @@ curl localhost:8082/42
 
 ### Resources
 
+https://www.youtube.com/watch?v=b9Rd6mPNxCM
+
 https://aws.amazon.com/blogs/big-data/building-a-recommender-with-apache-mahout-on-amazon-elastic-mapreduce-emr/
